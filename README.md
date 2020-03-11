@@ -1,2 +1,2 @@
-# Texway
-Texway Application comparatrice de textile.
+# WCU
+WCU Application comparatrice de textile.
