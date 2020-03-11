@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_number": "696823762929",
+    "firebase_url": "https://texwaydb.firebaseio.com",
+    "project_id": "texwaydb",
+    "storage_bucket": "texwaydb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696823762929:android:d34b03673281232d",
+        "android_client_info": {
+          "package_name": "com.example.texway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696823762929-b1q0mu71tb9rrnaurdh7vugjvj5sln2h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.texway",
+            "certificate_hash": "991811da821a19c826d98f1f04683902f98dbe1d"
+          }
+        },
+        {
+          "client_id": "696823762929-rmjcesdugfvv2clj1gqfdv926qu1ib1c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.texway",
+            "certificate_hash": "d69f3f4957c9406c335c25f26312fddedd4e66c5"
+          }
+        },
+        {
+          "client_id": "696823762929-5mfdhpmk9nvsondf2kjksmsf19fd2v1g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.texway",
+            "certificate_hash": "691d3a72fbab9a2b6adeffb2bfda877a174e7046"
+          }
+        },
+        {
+          "client_id": "696823762929-rrcukdkgadq5jqrsjn9lju6ekf361he5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.texway",
+            "certificate_hash": "b6c37daaea0829d0d9c20165eb747a298b449df5"
+          }
+        },
+        {
+          "client_id": "696823762929-2l4nf5gvmo17rkt52l7n7olamvcv0p89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLCxJwCp8HGMW9i1KADubLE6RhX9aj1Gs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696823762929-2l4nf5gvmo17rkt52l7n7olamvcv0p89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696823762929:android:eba2961dbce2f0a3",
+        "android_client_info": {
+          "package_name": "com.hitemax.texway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696823762929-2l4nf5gvmo17rkt52l7n7olamvcv0p89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLCxJwCp8HGMW9i1KADubLE6RhX9aj1Gs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696823762929-2l4nf5gvmo17rkt52l7n7olamvcv0p89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
